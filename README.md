@@ -5,7 +5,7 @@ HTML, CSS, JavaScript, PHP, Java, C, C++, SQL<br><br>
 <b>Libraries & Framework</b><br>
 Bootstrap<br><br>
 <b>Tools & Platforms</b><br>
-Git/Github, MySQL<br><br>
+Git/Github, MySQL, VSCode, Dev C++, Apache Netbeans<br><br>
 <b>Graphic Design</b><br>
 Figma, Adobe Photoshop, Wireframing<br><br>
 <b>Language</b><br>
