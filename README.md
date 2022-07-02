@@ -1,7 +1,7 @@
 <b>Programming/Scripting/Markup Languages</b><br>
 HTML, CSS, JavaScript, PHP, Java, C, C++, SQL<br><br>
 <b>Libraries & Framework</b><br>
-Bootstrap<br><br>
+Bootstrap, VueJS<br><br>
 <b>Tools & Platforms</b><br>
 Git/Github, MySQL<br><br>
 <b>Graphic Design</b><br>
