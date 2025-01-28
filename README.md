@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/wM-LMCxl6GAAAAAd/goofy-cat.gif" />
+<img align="right" height="150" src="https://media1.tenor.com/m/wM-LMCxl6GAAAAAd/goofy-cat.gif" />
 
 ###
 
@@ -82,6 +82,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/TSJean45/TSJean45/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TSJean45/TSJean45/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TSJean45/TSJean45/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/TSJean45/TSJean45/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ###
