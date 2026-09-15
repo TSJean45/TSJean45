@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 26" width="360" height="26" role="img" aria-label="~ Aventurine">
+<defs>
+  <linearGradient id="attrG" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#fff6dc"/>
+    <stop offset="60%" stop-color="#f2c14e"/>
+    <stop offset="100%" stop-color="#c98f2b"/>
+  </linearGradient>
+</defs>
+<text x="180" y="18" text-anchor="middle" font-family="'Courier New',monospace"
+      font-size="13" font-weight="bold" letter-spacing="4" fill="url(#attrG)">&#126; AVENTURINE</text>
+</svg>
